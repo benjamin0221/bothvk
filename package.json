@@ -1,0 +1,17 @@
+{
+  "name": "Bot-Hack-By-9wfy-v3",
+  "version": "1.0.0",
+  "description": "**All Copy Right Reserved For : 9wfy in YT** > My Discord Server : [اضغط هنا](https://discord.gg/pjU7qkdV4s)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1"
+  }
+}
